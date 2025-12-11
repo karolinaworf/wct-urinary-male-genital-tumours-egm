@@ -4,7 +4,7 @@ This repository hosts the interactive HTML of the Evidence and Gap Map (EGM) for
 
 ## Accessing the interactive EGM
 
-The interactive version is available at:
+The interactive version is available at: https://karolinaworf.github.io/wct-urinary-male-genital-tumours-egm/
 **<insert GitHub Pages URL once deployed>**
 
 All files needed to run the EGM locally are included in this repository.
